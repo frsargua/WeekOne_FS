@@ -3,6 +3,10 @@
 This is the link to access my refactored website.
 https://frsargua.github.io/WeekOneHW/
 
+GitHub link:
+
+https://github.com/frsargua/WeekOne_FS/tree/main/assets
+
 For this piece of work I have:
 
 1st- Added ALT attributes to all the img tags.
